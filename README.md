@@ -1,10 +1,10 @@
-# 👋 Hello! I'm Kumal.
+# 👋 Hello! I'm Kumal
 24-year old studying Computer Science with a recent interest into React/Typescript.
 &nbsp;
 
 [![Discord](https://img.shields.io/discord/829245117591978015?label=discord&style=for-the-badge)](https://discord.gg/JKuFZmzNZH)
 
-## Languages and Tools:
+## Languages and Tools 🛠️
  <img align="left" alt="c" height="35" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png">
  <img align="left" alt="cpp" height="35" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png">
  <img align="left" alt="java" height="35" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png">
