@@ -9,7 +9,7 @@
  <img align="left" alt="c" height="35" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png">
  <img align="left" alt="cpp" height="35" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png">
  <img align="left" alt="java" height="35" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png">
- <img align="left" alt="javascipt" height="53" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png">
+ <img align="left" alt="javascipt" height="35" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png">
  <img align="left" alt="typescipt" height="35" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png">
  <img align="left" alt="python" height="35" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png">
  <img align="left" alt="html" height="35" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png">
