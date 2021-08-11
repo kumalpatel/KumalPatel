@@ -18,7 +18,6 @@
 <img align="left" alt="nodejs" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img align="left" alt="nextjs" height="35" src="https://aristeksystems.com/blog/serverless-apps-are-now-supported-nextjs-8/images/next-js.jpg">
 <img align="left" alt="mongodb" height="35" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png">
-<img align="left" alt="heroku" height="35" src="https://user-images.githubusercontent.com/56086480/129011310-4d904b0b-463a-4119-bbbb-17441094d4af.png">
 <img align="left" alt="azure" height="35" src="https://www.datocms-assets.com/15783/1616854516-download.png">
 
 </br></br>
