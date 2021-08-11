@@ -1,8 +1,9 @@
 # 👋 Hello! I'm Kumal
+[![Discord](https://img.shields.io/discord/829245117591978015?label=Discord&style=flat)](https://discord.gg/JKuFZmzNZH)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/kumal-patel)
+
 24-year old studying Computer Science with a recent interest into React/Typescript.
 &nbsp;
-
-[![Discord](https://img.shields.io/discord/829245117591978015?label=discord&style=for-the-badge)](https://discord.gg/JKuFZmzNZH)
 
 ## Languages and Tools 🛠️
  <img align="left" alt="c" height="40" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png">
@@ -21,5 +22,7 @@
 <img align="left" alt="azure" height="40" src="https://www.datocms-assets.com/15783/1616854516-download.png">
 
 </br></br>
-### *Now Playing* on Spotify 🎧
+---
+
+### *Now Playing* 🎧
 ![Preview](https://spotify-readme-omega.vercel.app/api?scan=true&rainbow=true&theme=dark)
