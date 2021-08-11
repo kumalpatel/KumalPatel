@@ -23,5 +23,5 @@
 <img align="left" alt="azure" height="35" src="https://www.datocms-assets.com/15783/1616854516-download.png">
 
 </br></br>
-### Now Playing 🎧
+### *Now Playing* on Spotify 🎧
 ![Preview](https://spotify-readme-omega.vercel.app/api?scan=true&rainbow=true&theme=dark)
