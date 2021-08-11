@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[<img src="https://spotify-git-master-kumalpatel.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/dhl4xerb1q0hxfypkbwf07lbp)
+
 <!--
 **KumalPatel/KumalPatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
