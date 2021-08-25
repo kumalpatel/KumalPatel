@@ -2,7 +2,7 @@
 [![Discord](https://img.shields.io/discord/829245117591978015?label=Discord&style=plastic&logo=discord&logoColor=white)](https://discord.gg/JKuFZmzNZH) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/kumal-patel) &nbsp;
 
-24-year old studying Computer Science with a recent interest into React/Next.js/Typescript.
+24-year old studying Computer Science with a recent interest into Next.js/Typescript.
 
 ## Languages and Tools 🛠️
  <img align="left" alt="c" height="35" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png">
@@ -20,7 +20,7 @@
 <img align="left" alt="mongodb" height="35" src="https://i.imgur.com/R2FgU8t.png">
 <img align="left" alt="azure" height="35" src="https://i.imgur.com/EWIrIJj.png">
 
-</br></br>
+<br/><br/>
 
 ### *Now Playing* 🎧
 ![Preview](https://spotify-readme-omega.vercel.app/api?scan=true&rainbow=true&theme=dark)
