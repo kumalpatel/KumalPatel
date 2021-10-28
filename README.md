@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Kumal
-[![Discord](https://img.shields.io/discord/829245117591978015?label=Discord&style=plastic&logo=discord&logoColor=white)](https://discord.gg/JKuFZmzNZH) &nbsp;
+[![Discord](https://img.shields.io/discord/829245117591978015?label=Discord&style=plastic&logo=discord&logoColor=white)](https://discord.gg/mkJfqGpZ8u) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/kumal-patel) &nbsp;
 
 24-year old studying Computer Science with a recent interest into Next.js/Typescript.
